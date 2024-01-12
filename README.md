@@ -11,12 +11,16 @@ I'm a seasoned Flutter developer with a knack for crafting top-notch mobile expe
 - **Payment gateway Integration:** Passionate about crafting seamless and secure online experiences through the integration of robust payment gateways for streamlined and efficient financial transactions.
 - **Firebase Magic:** Harnessing the power of Firebase for real-time databases, authentication, cloud storage, and notifications.
 - **Hive for Flutter:** Utilizing Hive for fast, light, and reactive local storage in Flutter applications.
+- **GetX and Provider:** for state management.
+- **Flutter Animation:**
 
 ## 🚀 What I Do:
 
-- **Clear Code Advocacy:** Advocating for clean, modular, and reusable code structures.
+- **Clear and reusable Code Advocacy:** Advocating for clean, modular, and reusable code structures.
 - **Responsive Design:** Ensuring a seamless and responsive user interface across devices.
 - **Firebase Notifications:** Implementing push notifications to keep users engaged and informed.
+- **App Testing:**
+- **Custom App:**
 
 
 
