@@ -5,13 +5,15 @@ I'm a seasoned Flutter developer with a knack for crafting top-notch mobile expe
 ## 🔧 Expertise:
 
 - **Flutter Development:** Crafting visually appealing and performant cross-platform mobile applications.
-- **C++ Integration:** Leveraging my proficiency in C++ for robust and efficient backend solutions.
+- **C++:** Leveraging my proficiency in C++ for robust and efficient backend solutions.
 - **API Integration:** Seamlessly connecting applications with various APIs for dynamic content and services.
 - **Ads Integration:** Monetizing applications through strategic ads placement and revenue optimization.
 - **Payment gateway Integration:** Passionate about crafting seamless and secure online experiences through the integration of robust payment gateways for streamlined and efficient financial transactions.
 - **Firebase Magic:** Harnessing the power of Firebase for real-time databases, authentication, cloud storage, and notifications.
 - **Hive for Flutter:** Utilizing Hive for fast, light, and reactive local storage in Flutter applications.
 - **GetX and Provider:** for state management.
+- **Google Map integration:**
+- **Some knowledge of Arduino:**
 - **Flutter Animation:**
 
 ## 🚀 What I Do:
